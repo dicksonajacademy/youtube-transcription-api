@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/youtube-subtitles.py": {
-      "runtime": "python3.11"
-    }
-  }
-}
