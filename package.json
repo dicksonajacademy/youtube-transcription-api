@@ -1,9 +1,6 @@
 {
   "name": "youtube-transcription-api",
   "version": "1.0.0",
-  "description": "API to check YouTube subtitles and extract audio URL",
-  "type": "module",
-  "dependencies": {
-    "yt-dlp-wrap": "^2.3.12"
-  }
+  "description": "API to check YouTube subtitles",
+  "type": "module"
 }
